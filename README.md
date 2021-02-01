@@ -1,3 +1,3 @@
 # taskList
-Creating a Personal Task List\ 
-Open html using LiveServer Extension in VS Code\
+Creating a Personal Task List<br \>
+Open html using LiveServer Extension in VS Code<br \>
